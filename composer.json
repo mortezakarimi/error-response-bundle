@@ -23,7 +23,7 @@
     },
     "require": {
         "php": ">=7.4",
-        "symfony/framework-bundle": "^4.4 | ^5.4 | ^6.0",
+        "symfony/framework-bundle": "7.0.7",
         "symfony/serializer": "^4.4 | ^5.4 | ^6.0",
         "symfony/monolog-bundle": "^3.6"
     },

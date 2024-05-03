@@ -5,7 +5,7 @@ stages:
 test:
     # This file is a template, and might need editing before it works on your project.
     # Select image from https://hub.docker.com/_/php/
-    image: php:7.4-cli
+    image: php:8.3-cli
     stage: test
     # Select what we should cache between builds
     cache:
